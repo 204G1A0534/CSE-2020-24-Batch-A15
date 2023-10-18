@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:annotations:4.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.14.0/51574c4a8397e831b0422ec11393f7146df408b1/annotations-4.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.14.0/d80d957faa8c4bfa92e8b47c65657f270ac1846b/annotations-4.14.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.14.0/48b4643b7beb678408a13e34c3182c04e2c208d3/annotations-4.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
