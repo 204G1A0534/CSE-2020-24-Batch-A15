@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/drawable-v24/borader.xml" value="0.178" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/drawable-v24/button.xml" value="0.178" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/drawable/cardboarder.xml" value="0.178" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/drawable/menubor.xml" value="0.178" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_add_crops.xml" value="0.2" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_add_framers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_admin_dash_board.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_adminviewusers.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_farmer_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_farmerbooking.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_farmerviewcrops.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_showlocation.xml" value="0.1" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_user_bookings.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_user_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_view_farmers.xml" value="0.18" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/activity_view_more.xml" value="0.2" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/cardcropinfo.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/cardfarmers.xml" value="0.25" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/cardusercrops.xml" value="0.16673792218896966" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/cardyuserbooking.xml" value="0.25" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/fragment_farmerhome.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/fragment_farmerprofile.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/fragment_userhome.xml" value="0.2" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/layout/fragment_userprofile.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/ymts0579/Workspace/agritourism/app/src/main/res/menu/usermenu.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
