@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".user.userhome">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:padding="10dp">
+
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:src="@drawable/argi2"/>
+
+
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+         android:orientation="horizontal"
+          android:padding="10dp"
+          android:layout_margin="10dp"
+         android:weightSum="3">
+
+
+       <EditText
+           android:id="@+id/etsearch"
+           android:layout_width="0dp"
+           android:layout_height="match_parent"
+           android:layout_weight="2.5"
+           android:padding="10dp"
+           android:background="@drawable/borader"
+           android:hint="Enter place(Eg: Putter)"/>
+
+
+         <ImageView
+             android:id="@+id/imgserach"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+            android:layout_weight="0.5"
+             android:src="@drawable/search"/>
+
+
+      </LinearLayout>
+
+
+
+      <androidx.recyclerview.widget.RecyclerView
+          android:id="@+id/listusercrops"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          tools:listitem="@layout/cardusercrops"/>
+
+
+
+   </LinearLayout>
+
+</FrameLayout>
